@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/LifeCycle-Challenge/static/css/main.1a245f67.chunk.css",
-    "main.js": "/LifeCycle-Challenge/static/js/main.1b729293.chunk.js",
-    "main.js.map": "/LifeCycle-Challenge/static/js/main.1b729293.chunk.js.map",
-    "runtime-main.js": "/LifeCycle-Challenge/static/js/runtime-main.335e1053.js",
-    "runtime-main.js.map": "/LifeCycle-Challenge/static/js/runtime-main.335e1053.js.map",
-    "static/js/2.03a22d5a.chunk.js": "/LifeCycle-Challenge/static/js/2.03a22d5a.chunk.js",
-    "static/js/2.03a22d5a.chunk.js.map": "/LifeCycle-Challenge/static/js/2.03a22d5a.chunk.js.map",
-    "static/js/3.6c611ea4.chunk.js": "/LifeCycle-Challenge/static/js/3.6c611ea4.chunk.js",
-    "static/js/3.6c611ea4.chunk.js.map": "/LifeCycle-Challenge/static/js/3.6c611ea4.chunk.js.map",
-    "index.html": "/LifeCycle-Challenge/index.html",
-    "static/css/main.1a245f67.chunk.css.map": "/LifeCycle-Challenge/static/css/main.1a245f67.chunk.css.map",
-    "static/js/2.03a22d5a.chunk.js.LICENSE.txt": "/LifeCycle-Challenge/static/js/2.03a22d5a.chunk.js.LICENSE.txt"
+    "main.css": "/react-image-generator/static/css/main.1a245f67.chunk.css",
+    "main.js": "/react-image-generator/static/js/main.1b729293.chunk.js",
+    "main.js.map": "/react-image-generator/static/js/main.1b729293.chunk.js.map",
+    "runtime-main.js": "/react-image-generator/static/js/runtime-main.c52bad20.js",
+    "runtime-main.js.map": "/react-image-generator/static/js/runtime-main.c52bad20.js.map",
+    "static/js/2.03a22d5a.chunk.js": "/react-image-generator/static/js/2.03a22d5a.chunk.js",
+    "static/js/2.03a22d5a.chunk.js.map": "/react-image-generator/static/js/2.03a22d5a.chunk.js.map",
+    "static/js/3.6c611ea4.chunk.js": "/react-image-generator/static/js/3.6c611ea4.chunk.js",
+    "static/js/3.6c611ea4.chunk.js.map": "/react-image-generator/static/js/3.6c611ea4.chunk.js.map",
+    "index.html": "/react-image-generator/index.html",
+    "static/css/main.1a245f67.chunk.css.map": "/react-image-generator/static/css/main.1a245f67.chunk.css.map",
+    "static/js/2.03a22d5a.chunk.js.LICENSE.txt": "/react-image-generator/static/js/2.03a22d5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.335e1053.js",
+    "static/js/runtime-main.c52bad20.js",
     "static/js/2.03a22d5a.chunk.js",
     "static/css/main.1a245f67.chunk.css",
     "static/js/main.1b729293.chunk.js"
