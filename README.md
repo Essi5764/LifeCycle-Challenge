@@ -1,6 +1,6 @@
 # React Image Generator App
 
-[App Link Here](https://essi5764.github.io/LifeCycle-Challenge/).
+[App Link Here](https://essi5764.github.io/react-image-generator/).
 
 ![PROJECT](./src/img/image.jpg)
 
